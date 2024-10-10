@@ -1,5 +1,7 @@
 # MarchiveRipper
 
+An application to rip mongodb backups into a set of time-series postgresql JSON tables.
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
